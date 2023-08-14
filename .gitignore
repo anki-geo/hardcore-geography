@@ -1,0 +1,8 @@
+archiver/
+build/
+vendor/
+
+.DS_Store
+Thumbs.db
+~$*
+.idea
