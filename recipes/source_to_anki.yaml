@@ -28,14 +28,6 @@
         file: src/headers/default.yaml
         override:
           deck_description_html_file: src/headers/desc.html
-      - part_id: default header:es
-        file: src/headers/default.yaml
-        override:
-          deck_description_html_file: src/headers/desc_es.html
-      - part_id: default header:zh
-        file: src/headers/default.yaml
-        override:
-          deck_description_html_file: src/headers/desc_zh.html
 
   - media_group_from_folder:
       - part_id: all_media
@@ -342,7 +334,7 @@
       part_id: german
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
-    headers: default header:es
+    headers: default header
     folder: build/Hardcore Geography [ES]
     notes:
       part_id: spanish
@@ -383,7 +375,7 @@
       part_id: portuguese
 - generate_crowd_anki:
     <<: *default_crowd_anki_gen
-    headers: default header:zh
+    headers: default header
     folder: build/Hardcore Geography [ZH]
     notes:
       part_id: chinese
@@ -422,7 +414,7 @@
       <<: *override_nm
 - generate_crowd_anki:
     <<: *extended_deck
-    headers: default header:es
+    headers: default header
     folder: build/Hardcore Geography [ES] [Extended]
     notes:
       part_id: spanish
@@ -471,7 +463,7 @@
       <<: *override_nm
 - generate_crowd_anki:
     <<: *extended_deck
-    headers: default header:zh
+    headers: default header
     folder: build/Hardcore Geography [ZH] [Extended]
     notes:
       part_id: chinese
