@@ -25,3 +25,10 @@ jobs:
         pipenv run build
 
       # TODO: Validate the csv file structure
+
+    # Note that this also runs on pull_request!
+    - name: Upload build artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: automated_hg_decks_build
+        path: build/
