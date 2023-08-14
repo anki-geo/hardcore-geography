@@ -1,0 +1,34 @@
+name: Integrity check
+
+on: [push, pull_request]
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+
+    - name: Install dependencies
+      run: |
+        python3 -m pip install --upgrade pipenv
+        pipenv install
+
+    - name: Validate
+      run: |
+        pipenv run build
+
+      # TODO: Validate the csv file structure
+
+    # Note that this also runs on pull_request!
+    - name: Upload build artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: automated_hg_decks_build
+        path: build/
