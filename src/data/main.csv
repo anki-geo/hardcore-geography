@@ -1,1 +1,47 @@
 country,flag,map,tags
+Pitcairn Islands,"<img src=""ug-flag-pitcairn_islands.svg"" />","<img src=""ug-map-pitcairn_islands.png"" />",UG::Oceania
+Cocos (Keeling) Islands,"<img src=""ug-flag-cocos_islands.svg"" />","<img src=""ug-map-cocos_islands.png"" />",UG::Asia UG::Southeast_Asia
+Tokelau,"<img src=""ug-flag-tokelau.svg"" />","<img src=""ug-map-tokelau.png"" />",UG::Oceania
+Christmas Island,"<img src=""ug-flag-christmas_island.svg"" />","<img src=""ug-map-christmas_island.png"" />",UG::Asia UG::Southeast_Asia
+Norfolk Island,"<img src=""ug-flag-norfolk_island.svg"" />","<img src=""ug-map-norfolk_island.png"" />",UG::Oceania
+Montserrat,"<img src=""ug-flag-montserrat.svg"" />","<img src=""ug-map-montserrat.png"" />",UG::Caribbean UG::North_America
+Saint Helena,"<img src=""ug-flag-saint_helena.png"" />","<img src=""ug-map-saint_helena.png"" />",UG::Africa UG::West_Africa
+Saint Barthélemy,,"<img src=""ug-map-saint_barthelemy.png"" />",UG::Caribbean UG::North_America
+Ceuta,"<img src=""ug-flag-ceuta.png"" />","<img src=""ug-map-ceuta.png"" />",UG::Europe
+Melilla,"<img src=""ug-flag-melilla.png"" />","<img src=""ug-map-melilla.png"" />",UG::Europe
+Galápagos Islands,"<img src=""ug-flag-galapagos_islands.svg"" />","<img src=""ug-map-galapagos_islands.png"" />",UG::South_America
+Saba,"<img src=""ug-flag-saba.svg"" />","<img src=""ug-map-saba.png"" />",UG::Caribbean UG::North_America
+Sint Eustatius,"<img src=""ug-flag-sint_eustatius.svg"" />","<img src=""ug-map-sint_eustatius.png"" />",UG::Caribbean UG::North_America
+Easter Island,"<img src=""ug-flag-easter_island.svg"" />","<img src=""ug-map-easter_island.png"" />",UG::Oceania
+Bonaire,"<img src=""ug-flag-bonaire.svg"" />","<img src=""ug-map-bonaire.png"" />",UG::Caribbean UG::North_America
+British Indian Ocean Territory,"<img src=""ug-flag-british_indian_ocean_territory.svg"" />","<img src=""ug-map-british_indian_ocean_territory.png"" />",UG::Africa
+Mount Athos,"<img src=""ug-flag-mount_athos.png"" />","<img src=""ug-map-mount_athos.png"" />",UG::Europe
+,,,
+Anguilla,"<img src=""ug-flag-anguilla.svg"" />",,UG::Caribbean UG::North_America UG::Overlapping
+Gibraltar,"<img src=""ug-flag-gibraltar.svg"" />",,UG::Europe UG::Mediterranean UG::Overlapping
+Saint Martin,,,UG::Caribbean UG::North_America UG::Overlapping
+British Virgin Islands,"<img src=""ug-flag-british_virgin_islands.svg"" />",,UG::Caribbean UG::North_America UG::Overlapping
+Sint Maarten,"<img src=""ug-flag-sint_maarten.svg"" />",,UG::Caribbean UG::North_America UG::Overlapping
+Turks and Caicos Islands,"<img src=""ug-flag-turks_and_caicos_islands.svg"" />",,UG::Caribbean UG::North_America UG::Overlapping
+Northern Mariana Islands,"<img src=""ug-flag-northern_mariana_islands.png"" />",,UG::Oceania UG::Overlapping
+American Samoa,"<img src=""ug-flag-american_samoa.svg"" />",,UG::Oceania UG::Overlapping
+Cayman Islands,"<img src=""ug-flag-cayman_islands.svg"" />",,UG::Caribbean UG::North_America UG::Overlapping
+Guernsey,"<img src=""ug-flag-guernsey.svg"" />",,UG::Europe UG::Overlapping
+Bermuda,"<img src=""ug-flag-bermuda.svg"" />",,UG::Caribbean UG::North_America UG::Overlapping
+Isle of Man,"<img src=""ug-flag-isle_of_man.svg"" />",,UG::Europe UG::Overlapping
+Jersey,"<img src=""ug-flag-jersey.svg"" />",,UG::Europe UG::Overlapping
+Falkland Islands,"<img src=""ug-flag-falkland_islands.svg"" />",,UG::South_America UG::Overlapping
+Azores,"<img src=""ug-flag-azores.svg"" />",,UG::Europe UG::Overlapping
+Mayotte,,,UG::Africa UG::East_Africa UG::Overlapping
+Madeira,"<img src=""ug-flag-madeira.svg"" />",,UG::Europe UG::Overlapping
+Corsica,"<img src=""ug-flag-corsica.svg"" />",,UG::Europe UG::Overlapping
+Martinique,,,UG::Caribbean UG::North_America UG::Overlapping
+Sardinia,"<img src=""ug-flag-sardinia.svg"" />",,UG::Europe UG::Overlapping
+Sicily,"<img src=""ug-flag-sicily.svg"" />",,UG::Europe UG::Overlapping
+Zanzibar,"<img src=""ug-flag-zanzibar.svg"" />",,UG::Africa UG::Overlapping
+Canary Islands,"<img src=""ug-flag-canary_islands.svg"" />",,UG::Africa UG::Overlapping
+Guadeloupe,,,UG::Caribbean UG::North_America UG::Overlapping
+Réunion,,,UG::Africa UG::East_Africa UG::Overlapping
+Kaliningrad Oblast,"<img src=""ug-flag-kaliningrad_oblast.svg"" />",,UG::Europe UG::Overlapping
+French Guiana,,,UG::South_America UG::Overlapping
+Bali,"<img src=""ug-flag-bali-blur.png"" /><img src=""ug-flag-bali.png"" />",,UG::Asia UG::Overlapping
